@@ -1,0 +1,76 @@
+body{
+margin: 0;
+padding: 0;	
+}
+#titulo{
+font-family: verdana;
+text-align: center;
+border: solid black 2px;
+padding: 20px;
+background-color: grey;
+}
+
+#historia{
+font-weight: bold;
+font-family: verdana;
+text-align: center;
+}
+
+#form{
+padding-top:10px;
+margin: auto;
+text-align: center;
+}
+
+#benvia{
+background-color: #00ffff;
+border: solid #008080 4px;
+border-radius: 20px;
+font-family: verdana;
+font-size: 13px;
+}
+
+#benvia:hover{
+background-color: #40ff00;
+border: solid #1a6600 4px;
+border-radius: 20px;
+font-family: verdana;
+font-size: 14px;
+}
+
+
+#bencerra{
+background-color: #ff0000;
+border: solid #800000 4px;
+border-radius: 20px;
+font-family: verdana;
+font-size: 13px;
+margin-left: 10px;
+}
+
+#bencerra:hover{
+background-color: #40ff00;
+border: solid #1a6600 4px;
+border-radius: 20px;
+font-family: verdana;
+font-size: 14px;
+margin-left: 10px;
+}
+
+.resp{
+border: 2px solid black;
+border-radius: 15px;
+text-align: center;	
+}
+
+#questoes{
+font-family: verdana;
+text-align: center;
+border: solid black 2px;
+border-radius: 20px;
+padding: 20px;
+background-color: #ccffe6;
+margin: auto;
+width: 50%;
+color: #e63900;
+}

@@ -1,0 +1,104 @@
+body{
+margin: 0;
+padding: 0;	
+}
+
+#titulo {
+  font-family: sans-serif;
+  text-align: center;
+  border: none;
+  padding: 20px;
+  background-color: #ccffe6;
+  color: black;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+#historia{
+font-weight: bold;
+font-family: verdana;
+text-align: center;
+}
+
+#form{
+padding-top:10px;
+margin: auto;
+text-align: center;
+}
+
+#benvia{
+background-color: #0cf76e;
+border-radius: 5px;
+font-family: verdana;
+font-size: 13px;
+margin-left: 10px;
+box-shadow: 5px 2px 12px grey;
+border: none;
+padding: 6px 12px
+}
+
+#benvia:hover{
+background-color: #05a347;
+border-radius: 5px;
+font-family: verdana;
+font-size: 13px;
+margin-left: 10px;
+box-shadow: 5px 2px 12px grey;
+border: none;
+}
+
+#bencerra{
+background-color: #f76b48;
+border-radius: 5px;
+font-family: verdana;
+font-size: 13px;
+margin-left: 15px;
+box-shadow: 5px 2px 6px grey;
+border: none;
+padding: 6px 12px
+}
+
+#bencerra:hover{
+background-color: #a62403;
+border-radius: 5px;
+font-family: verdana;
+font-size: 13px;
+margin-left: 15px;
+box-shadow: 5px 2px 12px grey;
+border: none;
+margin-bottom: 80px;
+}
+
+.resp{
+border: 2px solid black;
+border-radius: 5px;
+text-align: center;	
+}
+
+#questoes{
+font-family: verdana;
+text-align: center;
+border: solid black 2px;
+border-radius: 20px;
+padding: 20px;
+background-color: #ccffe6;
+margin: auto;
+width: 50%;
+color: #e63900;
+margin-bottom: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%; /* Define a largura total da página */
+  font-family: sans-serif;
+  text-align: center;
+  border: none;
+  padding: 20px;
+  background-color: #ccffe6;
+  color: black;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
